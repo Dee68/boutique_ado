@@ -1,0 +1,9 @@
+Gitpod Code (1.76.2, dee68-boutiqueado-62hsbicy7pj.ws-eu93.gitpod.io, Gitpod)
+Jupyter Extension Version: 2023.3.100.
+Python Extension Version: 2023.4.1.
+Workspace folder /workspace/boutique_ado
+info 09:46:03.882: LSP Notebooks experiment is enabled
+warn 09:46:05.333: Failed to get activated env vars with python /home/gitpod/.pyenv/shims/python in 659ms
+error 09:46:05.336: Unable to determine site packages path for python /home/gitpod/.pyenv/shims/python (Pyenv)
+info 09:46:05.353: Process Execution: > ~/.pyenv/shims/python -m pip list
+> ~/.pyenv/shims/python -m pip list

@@ -1,0 +1,13 @@
+[Trace 09:06:16.843] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///workspace/boutique_ado/README.md
+[Trace 09:06:16.845] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///workspace/boutique_ado/README.md
+[Trace 09:06:16.846] Server: connection.languages.diagnostics.on: file:///workspace/boutique_ado/README.md
+[Trace 09:06:16.865] Server: connection.languages.diagnostics.on: file:///workspace/boutique_ado/README.md
+[Trace 09:06:16.931] DocumentSymbolProvider: provideDocumentSymbols — file:///workspace/boutique_ado/README.md 1
+[Debug 09:06:16.932] LinkProvider: compute - file:///workspace/boutique_ado/README.md
+[Trace 09:06:17.340] Server: connection.languages.diagnostics.on: file:///workspace/boutique_ado/README.md
+[Trace 09:06:20.709] Server: connection.languages.diagnostics.on: file:///workspace/boutique_ado/README.md
+[Trace 09:06:20.710] DocumentSymbolProvider: provideDocumentSymbols — file:///workspace/boutique_ado/README.md 1
+[Debug 09:06:20.710] TableOfContentsProvider: create - file:///workspace/boutique_ado/README.md
+[Debug 09:06:21.829] MdFoldingProvider: provideFoldingRanges — file:///workspace/boutique_ado/README.md 1
+[Trace 09:06:22.033] VsCodeClientWorkspace: TextDocument.onDidClose: file:///workspace/boutique_ado/README.md
+[Trace 09:06:22.033] VsCodeClientWorkspace: deleteDocument: file:///workspace/boutique_ado/README.md

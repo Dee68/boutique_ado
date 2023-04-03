@@ -1,0 +1,206 @@
+[Info  - 09:46:04.90] VSCODE_MACHINE_ID: 1b415dd1-b409-4aa7-bab1-393cf34be046
+[Info  - 09:46:04.90] VSCODE_SESSION_ID: 003d2269-f7cb-4628-9f59-2856e5d85b491680515160557
+[Info  - 09:46:04.90] VSCODE_VERSION: 1.76.2
+[Info  - 09:46:04.90] VSCODE_APP_NAME: Gitpod Code
+[Info  - 09:46:04.90] VSCODE_APP_HOST: Gitpod
+[Info  - 09:46:04.90] VSCODE_UI_KIND: web
+[Info  - 09:46:04.90] GITPOD_WORKSPACE_CONTEXT_URL: https://github.com/Dee68/boutique_ado
+[Info  - 09:46:04.90] GITPOD_INSTANCE_ID: 892ce277-18ab-408c-bc7e-aa5e53ee5934
+[Info  - 09:46:04.90] GITPOD_WORKSPACE_URL: https://dee68-boutiqueado-62hsbicy7pj.ws-eu93.gitpod.io
+[Trace  - 09:46:04.118] Task status:
+	03be1357-c7bb-4648-8916-00e664543758 => RUNNING
+	fcc45a74-5c6f-44d7-b858-594bb042afed => RUNNING
+[Error  - 10:51:05.54] 03be1357-c7bb-4648-8916-00e664543758 terminal: listening failed:
+Error: 13 INTERNAL: wait: no child processes
+	at t.callErrorFromStatus (/ide/extensions/gitpod-web/out/extension.js:2:269497)
+	at Object.onReceiveStatus (/ide/extensions/gitpod-web/out/extension.js:2:297003)
+	at Object.onReceiveStatus (/ide/extensions/gitpod-web/out/extension.js:2:290034)
+	at /ide/extensions/gitpod-web/out/extension.js:2:374016
+	at processTicksAndRejections (node:internal/process/task_queues:78:11)
+for call at
+	at n.makeServerStreamRequest (/ide/extensions/gitpod-web/out/extension.js:2:296770)
+	at n.listen (/ide/extensions/gitpod-web/out/extension.js:2:359419)
+	at /ide/extensions/gitpod-web/out/extension.js:2:960498
+	at new Promise (<anonymous>)
+	at Object.open (/ide/extensions/gitpod-web/out/extension.js:2:960397)
+	at C.startSendingEvents (/ide/out/vs/workbench/api/node/extensionHostProcess.js:98:130337)
+	at R.$startExtensionTerminal (/ide/out/vs/workbench/api/node/extensionHostProcess.js:98:133810)
+	at a.N (/ide/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+	at a.M (/ide/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+	at a.H (/ide/out/vs/workbench/api/node/extensionHostProcess.js:106:10034)
+	at a.G (/ide/out/vs/workbench/api/node/extensionHostProcess.js:106:9015)
+	at /ide/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+	at f.invoke (/ide/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/ide/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/ide/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/ide/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at /ide/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+	at f.invoke (/ide/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/ide/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/ide/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/ide/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at t.E (/ide/out/vs/workbench/api/node/extensionHostProcess.js:72:18973)
+	at /ide/out/vs/workbench/api/node/extensionHostProcess.js:72:16961
+	at f.invoke (/ide/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/ide/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/ide/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at u.acceptChunk (/ide/out/vs/workbench/api/node/extensionHostProcess.js:72:12638)
+	at /ide/out/vs/workbench/api/node/extensionHostProcess.js:72:11925
+	at f.invoke (/ide/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/ide/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/ide/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at d.u (/ide/out/vs/workbench/api/node/extensionHostProcess.js:72:28891)
+[Error  - 10:51:06.56] cannot maintain connection to supervisor
+Error: 13 INTERNAL: closed
+	at t.callErrorFromStatus (/ide/extensions/gitpod-web/out/extension.js:2:269497)
+	at Object.onReceiveStatus (/ide/extensions/gitpod-web/out/extension.js:2:297003)
+	at Object.onReceiveStatus (/ide/extensions/gitpod-web/out/extension.js:2:290034)
+	at /ide/extensions/gitpod-web/out/extension.js:2:374016
+	at processTicksAndRejections (node:internal/process/task_queues:78:11)
+for call at
+	at n.makeServerStreamRequest (/ide/extensions/gitpod-web/out/extension.js:2:296770)
+	at n.portsStatus (/ide/extensions/gitpod-web/out/extension.js:2:359419)
+	at /ide/extensions/gitpod-web/out/extension.js:2:986633
+[Error  - 10:51:07.58] cannot maintain connection to supervisor
+Error: 13 INTERNAL: closed
+	at t.callErrorFromStatus (/ide/extensions/gitpod-web/out/extension.js:2:269497)
+	at Object.onReceiveStatus (/ide/extensions/gitpod-web/out/extension.js:2:297003)
+	at Object.onReceiveStatus (/ide/extensions/gitpod-web/out/extension.js:2:290034)
+	at /ide/extensions/gitpod-web/out/extension.js:2:374016
+	at processTicksAndRejections (node:internal/process/task_queues:78:11)
+for call at
+	at n.makeServerStreamRequest (/ide/extensions/gitpod-web/out/extension.js:2:296770)
+	at n.portsStatus (/ide/extensions/gitpod-web/out/extension.js:2:359419)
+	at /ide/extensions/gitpod-web/out/extension.js:2:986633
+[Error  - 10:51:08.60] cannot maintain connection to supervisor
+Error: 13 INTERNAL: closed
+	at t.callErrorFromStatus (/ide/extensions/gitpod-web/out/extension.js:2:269497)
+	at Object.onReceiveStatus (/ide/extensions/gitpod-web/out/extension.js:2:297003)
+	at Object.onReceiveStatus (/ide/extensions/gitpod-web/out/extension.js:2:290034)
+	at /ide/extensions/gitpod-web/out/extension.js:2:374016
+	at processTicksAndRejections (node:internal/process/task_queues:78:11)
+for call at
+	at n.makeServerStreamRequest (/ide/extensions/gitpod-web/out/extension.js:2:296770)
+	at n.portsStatus (/ide/extensions/gitpod-web/out/extension.js:2:359419)
+	at /ide/extensions/gitpod-web/out/extension.js:2:986633
+[Error  - 10:51:09.63] cannot maintain connection to supervisor
+Error: 13 INTERNAL: closed
+	at t.callErrorFromStatus (/ide/extensions/gitpod-web/out/extension.js:2:269497)
+	at Object.onReceiveStatus (/ide/extensions/gitpod-web/out/extension.js:2:297003)
+	at Object.onReceiveStatus (/ide/extensions/gitpod-web/out/extension.js:2:290034)
+	at /ide/extensions/gitpod-web/out/extension.js:2:374016
+	at processTicksAndRejections (node:internal/process/task_queues:78:11)
+for call at
+	at n.makeServerStreamRequest (/ide/extensions/gitpod-web/out/extension.js:2:296770)
+	at n.portsStatus (/ide/extensions/gitpod-web/out/extension.js:2:359419)
+	at /ide/extensions/gitpod-web/out/extension.js:2:986633
+[Error  - 10:51:10.65] cannot maintain connection to supervisor
+Error: 13 INTERNAL: closed
+	at t.callErrorFromStatus (/ide/extensions/gitpod-web/out/extension.js:2:269497)
+	at Object.onReceiveStatus (/ide/extensions/gitpod-web/out/extension.js:2:297003)
+	at Object.onReceiveStatus (/ide/extensions/gitpod-web/out/extension.js:2:290034)
+	at /ide/extensions/gitpod-web/out/extension.js:2:374016
+	at processTicksAndRejections (node:internal/process/task_queues:78:11)
+for call at
+	at n.makeServerStreamRequest (/ide/extensions/gitpod-web/out/extension.js:2:296770)
+	at n.portsStatus (/ide/extensions/gitpod-web/out/extension.js:2:359419)
+	at /ide/extensions/gitpod-web/out/extension.js:2:986633
+[Error  - 10:51:11.68] cannot maintain connection to supervisor
+Error: 13 INTERNAL: closed
+	at t.callErrorFromStatus (/ide/extensions/gitpod-web/out/extension.js:2:269497)
+	at Object.onReceiveStatus (/ide/extensions/gitpod-web/out/extension.js:2:297003)
+	at Object.onReceiveStatus (/ide/extensions/gitpod-web/out/extension.js:2:290034)
+	at /ide/extensions/gitpod-web/out/extension.js:2:374016
+	at processTicksAndRejections (node:internal/process/task_queues:78:11)
+for call at
+	at n.makeServerStreamRequest (/ide/extensions/gitpod-web/out/extension.js:2:296770)
+	at n.portsStatus (/ide/extensions/gitpod-web/out/extension.js:2:359419)
+	at /ide/extensions/gitpod-web/out/extension.js:2:986633
+[Error  - 10:51:12.72] cannot maintain connection to supervisor
+Error: 13 INTERNAL: closed
+	at t.callErrorFromStatus (/ide/extensions/gitpod-web/out/extension.js:2:269497)
+	at Object.onReceiveStatus (/ide/extensions/gitpod-web/out/extension.js:2:297003)
+	at Object.onReceiveStatus (/ide/extensions/gitpod-web/out/extension.js:2:290034)
+	at /ide/extensions/gitpod-web/out/extension.js:2:374016
+	at processTicksAndRejections (node:internal/process/task_queues:78:11)
+for call at
+	at n.makeServerStreamRequest (/ide/extensions/gitpod-web/out/extension.js:2:296770)
+	at n.portsStatus (/ide/extensions/gitpod-web/out/extension.js:2:359419)
+	at /ide/extensions/gitpod-web/out/extension.js:2:986633
+[Error  - 10:51:13.73] cannot maintain connection to supervisor
+Error: 13 INTERNAL: closed
+	at t.callErrorFromStatus (/ide/extensions/gitpod-web/out/extension.js:2:269497)
+	at Object.onReceiveStatus (/ide/extensions/gitpod-web/out/extension.js:2:297003)
+	at Object.onReceiveStatus (/ide/extensions/gitpod-web/out/extension.js:2:290034)
+	at /ide/extensions/gitpod-web/out/extension.js:2:374016
+	at processTicksAndRejections (node:internal/process/task_queues:78:11)
+for call at
+	at n.makeServerStreamRequest (/ide/extensions/gitpod-web/out/extension.js:2:296770)
+	at n.portsStatus (/ide/extensions/gitpod-web/out/extension.js:2:359419)
+	at /ide/extensions/gitpod-web/out/extension.js:2:986633
+[Error  - 10:51:14.75] cannot maintain connection to supervisor
+Error: 13 INTERNAL: closed
+	at t.callErrorFromStatus (/ide/extensions/gitpod-web/out/extension.js:2:269497)
+	at Object.onReceiveStatus (/ide/extensions/gitpod-web/out/extension.js:2:297003)
+	at Object.onReceiveStatus (/ide/extensions/gitpod-web/out/extension.js:2:290034)
+	at /ide/extensions/gitpod-web/out/extension.js:2:374016
+	at processTicksAndRejections (node:internal/process/task_queues:78:11)
+for call at
+	at n.makeServerStreamRequest (/ide/extensions/gitpod-web/out/extension.js:2:296770)
+	at n.portsStatus (/ide/extensions/gitpod-web/out/extension.js:2:359419)
+	at /ide/extensions/gitpod-web/out/extension.js:2:986633
+[Error  - 10:51:15.78] cannot maintain connection to supervisor
+Error: 13 INTERNAL: closed
+	at t.callErrorFromStatus (/ide/extensions/gitpod-web/out/extension.js:2:269497)
+	at Object.onReceiveStatus (/ide/extensions/gitpod-web/out/extension.js:2:297003)
+	at Object.onReceiveStatus (/ide/extensions/gitpod-web/out/extension.js:2:290034)
+	at /ide/extensions/gitpod-web/out/extension.js:2:374016
+	at processTicksAndRejections (node:internal/process/task_queues:78:11)
+for call at
+	at n.makeServerStreamRequest (/ide/extensions/gitpod-web/out/extension.js:2:296770)
+	at n.portsStatus (/ide/extensions/gitpod-web/out/extension.js:2:359419)
+	at /ide/extensions/gitpod-web/out/extension.js:2:986633
+[Error  - 10:51:16.81] cannot maintain connection to supervisor
+Error: 13 INTERNAL: closed
+	at t.callErrorFromStatus (/ide/extensions/gitpod-web/out/extension.js:2:269497)
+	at Object.onReceiveStatus (/ide/extensions/gitpod-web/out/extension.js:2:297003)
+	at Object.onReceiveStatus (/ide/extensions/gitpod-web/out/extension.js:2:290034)
+	at /ide/extensions/gitpod-web/out/extension.js:2:374016
+	at processTicksAndRejections (node:internal/process/task_queues:78:11)
+for call at
+	at n.makeServerStreamRequest (/ide/extensions/gitpod-web/out/extension.js:2:296770)
+	at n.portsStatus (/ide/extensions/gitpod-web/out/extension.js:2:359419)
+	at /ide/extensions/gitpod-web/out/extension.js:2:986633
+[Error  - 10:51:17.83] cannot maintain connection to supervisor
+Error: 13 INTERNAL: closed
+	at t.callErrorFromStatus (/ide/extensions/gitpod-web/out/extension.js:2:269497)
+	at Object.onReceiveStatus (/ide/extensions/gitpod-web/out/extension.js:2:297003)
+	at Object.onReceiveStatus (/ide/extensions/gitpod-web/out/extension.js:2:290034)
+	at /ide/extensions/gitpod-web/out/extension.js:2:374016
+	at processTicksAndRejections (node:internal/process/task_queues:78:11)
+for call at
+	at n.makeServerStreamRequest (/ide/extensions/gitpod-web/out/extension.js:2:296770)
+	at n.portsStatus (/ide/extensions/gitpod-web/out/extension.js:2:359419)
+	at /ide/extensions/gitpod-web/out/extension.js:2:986633
+[Error  - 10:51:18.87] cannot maintain connection to supervisor
+Error: 13 INTERNAL: closed
+	at t.callErrorFromStatus (/ide/extensions/gitpod-web/out/extension.js:2:269497)
+	at Object.onReceiveStatus (/ide/extensions/gitpod-web/out/extension.js:2:297003)
+	at Object.onReceiveStatus (/ide/extensions/gitpod-web/out/extension.js:2:290034)
+	at /ide/extensions/gitpod-web/out/extension.js:2:374016
+	at processTicksAndRejections (node:internal/process/task_queues:78:11)
+for call at
+	at n.makeServerStreamRequest (/ide/extensions/gitpod-web/out/extension.js:2:296770)
+	at n.portsStatus (/ide/extensions/gitpod-web/out/extension.js:2:359419)
+	at /ide/extensions/gitpod-web/out/extension.js:2:986633
+[Error  - 10:51:19.88] cannot maintain connection to supervisor
+Error: 13 INTERNAL: closed
+	at t.callErrorFromStatus (/ide/extensions/gitpod-web/out/extension.js:2:269497)
+	at Object.onReceiveStatus (/ide/extensions/gitpod-web/out/extension.js:2:297003)
+	at Object.onReceiveStatus (/ide/extensions/gitpod-web/out/extension.js:2:290034)
+	at /ide/extensions/gitpod-web/out/extension.js:2:374016
+	at processTicksAndRejections (node:internal/process/task_queues:78:11)
+for call at
+	at n.makeServerStreamRequest (/ide/extensions/gitpod-web/out/extension.js:2:296770)
+	at n.portsStatus (/ide/extensions/gitpod-web/out/extension.js:2:359419)
+	at /ide/extensions/gitpod-web/out/extension.js:2:986633

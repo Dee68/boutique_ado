@@ -1,0 +1,220 @@
+[1.29µs] Shutting down all processes 
+[521.59µs] Terminating process supervisor with PID 34 (state: S, cmdlind: [supervisor run] <nil>). 
+[15.001626103s] Terminating process didn't finish, but had to be force killed 
+[15.001937052s] Terminating process sleep with PID 4363 (state: S, cmdlind: [sleep 300] <nil>). 
+[15.001970472s] Terminating process didn't finish, but had to be force killed 
+[15.002039343s] Terminating process node with PID 2848 (state: S, cmdlind: [/ide/node /ide/out/bootstrap-fork --type=fileWatcher] <nil>). 
+[15.002074132s] Terminating process bash with PID 1915 (state: S, cmdlind: [/bin/bash --init-file /ide/out/vs/workbench/contrib/terminal/browser/media/shellIntegration-bash.sh] <nil>). 
+[15.002078243s] Terminating process node with PID 79 (state: S, cmdlind: [/ide/node /ide/out/bootstrap-fork --type=ptyHost --logsPath /workspace/.vscode-remote/data/logs/20230403T090556] <nil>). 
+[15.002135792s] Terminating process didn't finish, but had to be force killed 
+[15.002168352s] Terminating process node with PID 3163 (state: S, cmdlind: [/ide/node /ide/extensions/redhat.vscode-yaml/dist/languageserver.js --node-ipc --clientProcessId=3110] <nil>). 
+[15.002181262s] Terminating process didn't finish, but had to be force killed 
+[15.002212252s] Terminating process didn't finish, but had to be force killed 
+[15.002248432s] Terminating process didn't finish, but had to be force killed 
+[15.002277892s] Terminating process node with PID 68 (state: S, cmdlind: [/ide/node /ide/out/server-main.js --log=info --install-builtin-extension gitpod.gitpod-theme --install-builtin-extension github.vscode-pull-request-github --install-extension ms-python.python --install-extension formulahendry.auto-close-tag --install-extension eventyret.bootstrap-4-cdn-snippet --install-extension hookyqr.beautify --install-extension matt-rudge.auto-open-preview-panel --install-extension ms-toolsai.jupyter --install-extension ms-toolsai.jupyter-keymap --install-extension ms-toolsai.jupyter-renderers --port 23000 --host 0.0.0.0 --without-connection-token --server-data-dir /workspace/.vscode-remote --do-not-sync --start-server] <nil>). 
+[15.002301542s] Terminating process bash with PID 726 (state: R, cmdlind: [/bin/bash] <nil>). 
+[15.002321012s] Terminating process didn't finish, but had to be force killed 
+[15.002320512s] Terminating process didn't finish, but had to be force killed 
+[15.002275482s] Terminating process node with PID 3314 (state: S, cmdlind: [/ide/node /ide/extensions/json-language-features/server/dist/node/jsonServerMain --node-ipc --clientProcessId=3110] <nil>). 
+[15.002351762s] Terminating process node with PID 3110 (state: R, cmdlind: [/ide/node /ide/out/bootstrap-fork --type=extensionHost --transformURIs --useHostProxy=false] <nil>). 
+[15.002404872s] Terminating process didn't finish, but had to be force killed 
+[15.002457612s] Terminating process node with PID 3122 (state: S, cmdlind: [/ide/node /ide/out/bootstrap-fork --type=fileWatcher] <nil>). 
+[15.002458352s] Terminating process didn't finish, but had to be force killed 
+[15.002521602s] Terminating process didn't finish, but had to be force killed 
+[15.002573012s] Terminating process python with PID 3271 (state: S, cmdlind: [/home/gitpod/.pyenv/versions/3.11.1/bin/python /workspace/.vscode-remote/extensions/ms-python.python-2023.4.1-universal/pythonFiles/lib/jedilsp/jedi/inference/compiled/subprocess/__main__.py /workspace/.vscode-remote/extensions/ms-python.python-2023.4.1-universal/pythonFiles/lib/jedilsp 3.11.1] <nil>). 
+[15.002589692s] Terminating process node with PID 1902 (state: S, cmdlind: [/ide/node /ide/out/bootstrap-fork --type=fileWatcher] <nil>). 
+[15.002601552s] Terminating process didn't finish, but had to be force killed 
+[15.002612562s] Terminating process python with PID 3189 (state: S, cmdlind: [/home/gitpod/.pyenv/versions/3.11.1/bin/python /workspace/.vscode-remote/extensions/ms-python.python-2023.4.1-universal/pythonFiles/run-jedi-language-server.py] <nil>). 
+[15.002639312s] Terminating process didn't finish, but had to be force killed 
+[15.002656662s] Terminating process didn't finish, but had to be force killed 
+[15.003028132s] Terminating process node with PID 3122 (state: R, cmdlind: [/ide/node /ide/out/bootstrap-fork --type=fileWatcher] <nil>). 
+[15.003048662s] Terminating process didn't finish, but had to be force killed 
+[15.003087392s] Terminating process node with PID 68 (state: R, cmdlind: [/ide/node /ide/out/server-main.js --log=info --install-builtin-extension gitpod.gitpod-theme --install-builtin-extension github.vscode-pull-request-github --install-extension ms-python.python --install-extension formulahendry.auto-close-tag --install-extension eventyret.bootstrap-4-cdn-snippet --install-extension hookyqr.beautify --install-extension matt-rudge.auto-open-preview-panel --install-extension ms-toolsai.jupyter --install-extension ms-toolsai.jupyter-keymap --install-extension ms-toolsai.jupyter-renderers --port 23000 --host 0.0.0.0 --without-connection-token --server-data-dir /workspace/.vscode-remote --do-not-sync --start-server] <nil>). 
+[15.003098772s] Terminating process didn't finish, but had to be force killed 
+[15.003259042s] Terminating process node with PID 3314 (state: R, cmdlind: [/ide/node /ide/extensions/json-language-features/server/dist/node/jsonServerMain --node-ipc --clientProcessId=3110] <nil>). 
+[15.003271282s] Terminating process didn't finish, but had to be force killed 
+[15.003259612s] Terminating process bash with PID 726 (state: R, cmdlind: [] <nil>). 
+[15.003282892s] Terminating process didn't finish, but had to be force killed 
+[15.003302602s] Terminating process python with PID 3271 (state: R, cmdlind: [] <nil>). 
+[15.003314932s] Terminating process didn't finish, but had to be force killed 
+[15.003403092s] Terminating process python with PID 3189 (state: R, cmdlind: [/home/gitpod/.pyenv/versions/3.11.1/bin/python /workspace/.vscode-remote/extensions/ms-python.python-2023.4.1-universal/pythonFiles/run-jedi-language-server.py] <nil>). 
+[15.003410262s] Terminating process didn't finish, but had to be force killed 
+[15.003405592s] Terminating process bash with PID 1915 (state: R, cmdlind: [] <nil>). 
+[15.003417992s] Terminating process didn't finish, but had to be force killed 
+[15.003654102s] Terminating process node with PID 3314 (state: R, cmdlind: [/ide/node /ide/extensions/json-language-features/server/dist/node/jsonServerMain --node-ipc --clientProcessId=3110] <nil>). 
+[15.003670802s] Terminating process didn't finish, but had to be force killed 
+[15.003726792s] Terminating process python with PID 3189 (state: R, cmdlind: [/home/gitpod/.pyenv/versions/3.11.1/bin/python /workspace/.vscode-remote/extensions/ms-python.python-2023.4.1-universal/pythonFiles/run-jedi-language-server.py] <nil>). 
+[15.003733272s] Terminating process didn't finish, but had to be force killed 
+[15.003778452s] Terminating process node with PID 68 (state: R, cmdlind: [] <nil>). 
+[15.003802582s] Terminating process didn't finish, but had to be force killed 
+[15.003807902s] Terminating process bash with PID 726 (state: R, cmdlind: [] <nil>). 
+[15.003820412s] Terminating process didn't finish, but had to be force killed 
+[15.003781112s] Terminating process python with PID 3271 (state: R, cmdlind: [] <nil>). 
+[15.003847132s] Terminating process didn't finish, but had to be force killed 
+[15.004037462s] Terminating process node with PID 3314 (state: R, cmdlind: [] <nil>). 
+[15.007435992s] Terminating process didn't finish, but had to be force killed 
+[15.004233342s] Terminating process python with PID 3271 (state: R, cmdlind: [] <nil>). 
+[15.008020802s] Terminating process didn't finish, but had to be force killed 
+[15.004244582s] Terminating process python with PID 3189 (state: R, cmdlind: [/home/gitpod/.pyenv/versions/3.11.1/bin/python /workspace/.vscode-remote/extensions/ms-python.python-2023.4.1-universal/pythonFiles/run-jedi-language-server.py] <nil>). 
+[15.008028422s] Terminating process didn't finish, but had to be force killed 
+[15.004140412s] Terminating process node with PID 68 (state: R, cmdlind: [] <nil>). 
+[15.008036082s] Terminating process didn't finish, but had to be force killed 
+[15.004228142s] Couldn't obtain process information for PID 726. 
+[15.008435032s] Terminating process node with PID 3314 (state: R, cmdlind: [] <nil>). 
+[15.008485862s] Terminating process didn't finish, but had to be force killed 
+[15.008596292s] Terminating process python with PID 3189 (state: R, cmdlind: [] <nil>). 
+[15.008606492s] Terminating process node with PID 68 (state: R, cmdlind: [] <nil>). 
+[15.008622062s] Terminating process didn't finish, but had to be force killed 
+[15.008622482s] Terminating process didn't finish, but had to be force killed 
+[15.008844692s] Terminating process node with PID 3314 (state: R, cmdlind: [] <nil>). 
+[15.008856722s] Terminating process didn't finish, but had to be force killed 
+[15.008935502s] Terminating process node with PID 68 (state: R, cmdlind: [] <nil>). 
+[15.008967352s] Terminating process didn't finish, but had to be force killed 
+[15.008948562s] Terminating process python with PID 3189 (state: R, cmdlind: [] <nil>). 
+[15.009001572s] Terminating process didn't finish, but had to be force killed 
+[15.009146172s] Terminating process node with PID 3314 (state: R, cmdlind: [] <nil>). 
+[15.009152942s] Terminating process didn't finish, but had to be force killed 
+[15.009236072s] Terminating process node with PID 68 (state: R, cmdlind: [] <nil>). 
+[15.009241592s] Terminating process didn't finish, but had to be force killed 
+[15.009907112s] Terminating process python with PID 3189 (state: R, cmdlind: [] <nil>). 
+[15.009924152s] Terminating process didn't finish, but had to be force killed 
+[15.010695502s] Terminating process node with PID 68 (state: R, cmdlind: [] <nil>). 
+[15.010711722s] Terminating process didn't finish, but had to be force killed 
+[15.010767471s] Terminating process python with PID 3189 (state: R, cmdlind: [] <nil>). 
+[15.010822762s] Terminating process didn't finish, but had to be force killed 
+[15.011081361s] Terminating process node with PID 68 (state: R, cmdlind: [] <nil>). 
+[15.011103601s] Terminating process didn't finish, but had to be force killed 
+[15.011092871s] Couldn't obtain process information for PID 34. 
+[15.011149831s] Couldn't obtain process information for PID 90. 
+[15.011207871s] Terminating process python with PID 3189 (state: R, cmdlind: [] <nil>). 
+[15.011241811s] Terminating process didn't finish, but had to be force killed 
+[15.011457801s] Terminating process node with PID 68 (state: R, cmdlind: [] <nil>). 
+[15.011470251s] Terminating process didn't finish, but had to be force killed 
+[15.011656511s] Terminating process python with PID 3189 (state: R, cmdlind: [] <nil>). 
+[15.011714791s] Terminating process didn't finish, but had to be force killed 
+[15.012032261s] Terminating process node with PID 68 (state: R, cmdlind: [] <nil>). 
+[15.012042731s] Terminating process didn't finish, but had to be force killed 
+[15.012043311s] Terminating process python with PID 3189 (state: R, cmdlind: [] <nil>). 
+[15.012067241s] Terminating process didn't finish, but had to be force killed 
+[15.012288051s] Terminating process node with PID 68 (state: R, cmdlind: [] <nil>). 
+[15.012298241s] Terminating process didn't finish, but had to be force killed 
+[15.012315711s] Terminating process python with PID 3189 (state: R, cmdlind: [] <nil>). 
+[15.012326701s] Terminating process didn't finish, but had to be force killed 
+[15.012656201s] Terminating process node with PID 68 (state: R, cmdlind: [] <nil>). 
+[15.012665821s] Terminating process python with PID 3189 (state: R, cmdlind: [] <nil>). 
+[15.012677211s] Terminating process didn't finish, but had to be force killed 
+[15.012678541s] Terminating process didn't finish, but had to be force killed 
+[15.012888181s] Terminating process python with PID 3189 (state: R, cmdlind: [] <nil>). 
+[15.012895971s] Terminating process didn't finish, but had to be force killed 
+[15.012908411s] Terminating process node with PID 68 (state: R, cmdlind: [] <nil>). 
+[15.012958271s] Terminating process didn't finish, but had to be force killed 
+[15.013166651s] Terminating process node with PID 68 (state: R, cmdlind: [] <nil>). 
+[15.013187241s] Terminating process didn't finish, but had to be force killed 
+[15.013275461s] Terminating process python with PID 3189 (state: R, cmdlind: [] <nil>). 
+[15.013291051s] Terminating process didn't finish, but had to be force killed 
+[15.013580951s] Terminating process python with PID 3189 (state: R, cmdlind: [] <nil>). 
+[15.013589871s] Terminating process node with PID 68 (state: R, cmdlind: [] <nil>). 
+[15.013601581s] Terminating process didn't finish, but had to be force killed 
+[15.013592651s] Terminating process didn't finish, but had to be force killed 
+[15.013808031s] Terminating process python with PID 3189 (state: R, cmdlind: [] <nil>). 
+[15.013817311s] Terminating process didn't finish, but had to be force killed 
+[15.013855501s] Terminating process node with PID 68 (state: R, cmdlind: [] <nil>). 
+[15.013868651s] Terminating process didn't finish, but had to be force killed 
+[15.014507671s] Terminating process node with PID 68 (state: R, cmdlind: [] <nil>). 
+[15.014515711s] Terminating process python with PID 3189 (state: R, cmdlind: [] <nil>). 
+[15.014530851s] Terminating process didn't finish, but had to be force killed 
+[15.014519251s] Terminating process didn't finish, but had to be force killed 
+[15.015381701s] Terminating process node with PID 68 (state: R, cmdlind: [] <nil>). 
+[15.01540675s] Terminating process didn't finish, but had to be force killed 
+[15.01542837s] Terminating process python with PID 3189 (state: R, cmdlind: [] <nil>). 
+[15.015441281s] Terminating process didn't finish, but had to be force killed 
+[15.01585113s] Terminating process node with PID 68 (state: R, cmdlind: [] <nil>). 
+[15.01586043s] Terminating process didn't finish, but had to be force killed 
+[15.016029241s] Terminating process python with PID 3189 (state: R, cmdlind: [] <nil>). 
+[15.01604835s] Terminating process didn't finish, but had to be force killed 
+[15.01631227s] Terminating process python with PID 3189 (state: R, cmdlind: [] <nil>). 
+[15.01632375s] Terminating process didn't finish, but had to be force killed 
+[15.01632989s] Terminating process node with PID 68 (state: R, cmdlind: [] <nil>). 
+[15.01636831s] Terminating process didn't finish, but had to be force killed 
+[15.01663123s] Terminating process python with PID 3189 (state: R, cmdlind: [] <nil>). 
+[15.01664325s] Terminating process didn't finish, but had to be force killed 
+[15.0166865s] Terminating process node with PID 68 (state: R, cmdlind: [] <nil>). 
+[15.01670939s] Terminating process didn't finish, but had to be force killed 
+[15.01699038s] Terminating process node with PID 68 (state: R, cmdlind: [] <nil>). 
+[15.01700044s] Terminating process didn't finish, but had to be force killed 
+[15.01704033s] Terminating process python with PID 3189 (state: R, cmdlind: [] <nil>). 
+[15.01707975s] Terminating process didn't finish, but had to be force killed 
+[15.01723801s] Terminating process python with PID 3189 (state: R, cmdlind: [] <nil>). 
+[15.01724835s] Terminating process didn't finish, but had to be force killed 
+[15.01726853s] Terminating process node with PID 68 (state: R, cmdlind: [] <nil>). 
+[15.0172957s] Terminating process didn't finish, but had to be force killed 
+[15.01748057s] Terminating process python with PID 3189 (state: R, cmdlind: [] <nil>). 
+[15.01749125s] Terminating process didn't finish, but had to be force killed 
+[15.01754217s] Terminating process node with PID 68 (state: R, cmdlind: [] <nil>). 
+[15.0175575s] Terminating process didn't finish, but had to be force killed 
+[15.01783615s] Terminating process python with PID 3189 (state: R, cmdlind: [] <nil>). 
+[15.01784179s] Terminating process node with PID 68 (state: R, cmdlind: [] <nil>). 
+[15.0178532s] Terminating process didn't finish, but had to be force killed 
+[15.01786083s] Terminating process didn't finish, but had to be force killed 
+[15.01816083s] Terminating process node with PID 68 (state: R, cmdlind: [] <nil>). 
+[15.01817077s] Terminating process didn't finish, but had to be force killed 
+[15.01815991s] Terminating process python with PID 3189 (state: R, cmdlind: [] <nil>). 
+[15.01829239s] Terminating process didn't finish, but had to be force killed 
+[15.01849598s] Terminating process node with PID 68 (state: R, cmdlind: [] <nil>). 
+[15.01850474s] Terminating process didn't finish, but had to be force killed 
+[15.01873289s] Terminating process node with PID 68 (state: R, cmdlind: [] <nil>). 
+[15.01874549s] Terminating process didn't finish, but had to be force killed 
+[15.0191035s] Terminating process node with PID 68 (state: R, cmdlind: [] <nil>). 
+[15.01913078s] Terminating process didn't finish, but had to be force killed 
+[15.01928258s] Terminating process node with PID 68 (state: R, cmdlind: [] <nil>). 
+[15.01929893s] Terminating process didn't finish, but had to be force killed 
+[15.01977563s] Terminating process node with PID 68 (state: R, cmdlind: [] <nil>). 
+[15.01978964s] Terminating process didn't finish, but had to be force killed 
+[15.0205612s] Terminating process node with PID 68 (state: R, cmdlind: [] <nil>). 
+[15.02059551s] Terminating process didn't finish, but had to be force killed 
+[15.020809389s] Terminating process node with PID 68 (state: R, cmdlind: [] <nil>). 
+[15.020828349s] Terminating process didn't finish, but had to be force killed 
+[15.02098834s] Terminating process node with PID 68 (state: R, cmdlind: [] <nil>). 
+[15.02100128s] Terminating process didn't finish, but had to be force killed 
+[15.021259849s] Terminating process node with PID 68 (state: R, cmdlind: [] <nil>). 
+[15.021282089s] Terminating process didn't finish, but had to be force killed 
+[15.02146004s] Terminating process node with PID 68 (state: R, cmdlind: [] <nil>). 
+[15.021486809s] Terminating process didn't finish, but had to be force killed 
+[15.021634209s] Terminating process node with PID 68 (state: R, cmdlind: [] <nil>). 
+[15.02164478s] Terminating process didn't finish, but had to be force killed 
+[15.021890659s] Terminating process node with PID 68 (state: D, cmdlind: [] <nil>). 
+[15.021900329s] Terminating process didn't finish, but had to be force killed 
+[15.022385269s] Terminating process node with PID 68 (state: D, cmdlind: [] <nil>). 
+[15.022415929s] Terminating process didn't finish, but had to be force killed 
+[15.022663449s] Terminating process node with PID 68 (state: D, cmdlind: [] <nil>). 
+[15.022708669s] Terminating process didn't finish, but had to be force killed 
+[15.022927959s] Terminating process node with PID 68 (state: D, cmdlind: [] <nil>). 
+[15.022939369s] Terminating process didn't finish, but had to be force killed 
+[15.023331869s] Terminating process node with PID 68 (state: D, cmdlind: [] <nil>). 
+[15.023366869s] Terminating process didn't finish, but had to be force killed 
+[15.023564279s] Terminating process node with PID 68 (state: D, cmdlind: [] <nil>). 
+[15.023573939s] Terminating process didn't finish, but had to be force killed 
+[15.024353429s] Terminating process node with PID 68 (state: D, cmdlind: [] <nil>). 
+[15.024440389s] Terminating process didn't finish, but had to be force killed 
+[15.025093429s] Terminating process node with PID 68 (state: D, cmdlind: [] <nil>). 
+[15.025128189s] Terminating process didn't finish, but had to be force killed 
+[15.025433219s] Terminating process node with PID 68 (state: D, cmdlind: [] <nil>). 
+[15.025458499s] Terminating process didn't finish, but had to be force killed 
+[15.025656779s] Terminating process node with PID 68 (state: D, cmdlind: [] <nil>). 
+[15.025686359s] Terminating process didn't finish, but had to be force killed 
+[15.025895379s] Terminating process node with PID 68 (state: D, cmdlind: [] <nil>). 
+[15.025924559s] Terminating process didn't finish, but had to be force killed 
+[15.026097749s] Terminating process node with PID 68 (state: D, cmdlind: [] <nil>). 
+[15.026108609s] Terminating process didn't finish, but had to be force killed 
+[15.026372779s] Terminating process node with PID 68 (state: D, cmdlind: [] <nil>). 
+[15.026383819s] Terminating process didn't finish, but had to be force killed 
+[15.026711108s] Terminating process node with PID 68 (state: D, cmdlind: [] <nil>). 
+[15.026742408s] Terminating process didn't finish, but had to be force killed 
+[15.026935508s] Terminating process node with PID 68 (state: D, cmdlind: [] <nil>). 
+[15.026945899s] Terminating process didn't finish, but had to be force killed 
+[15.027429008s] Terminating process node with PID 68 (state: R, cmdlind: [] <nil>). 
+[15.027466878s] Terminating process didn't finish, but had to be force killed 
+[15.027658918s] Terminating process node with PID 68 (state: R, cmdlind: [] <nil>). 
+[15.027671798s] Terminating process didn't finish, but had to be force killed 
+[15.036824357s] Couldn't obtain process information for PID 3189. 
+[15.502426518s] Finished shutting down all processes. 

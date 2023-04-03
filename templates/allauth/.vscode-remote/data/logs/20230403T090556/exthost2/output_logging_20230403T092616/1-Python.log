@@ -1,0 +1,58 @@
+LSP Notebooks experiment is disabled -- not using Pylance
+LSP Notebooks interactive window support is disabled -- not in LSP Notebooks experiment
+> conda info --json
+Python interpreter path: ~/.pyenv/shims/python
+> ~/.pyenv/versions/3.11.1/bin/python -I /workspace/.vscode-remote/extensions/ms-python.python-2023.4.1-universal/pythonFiles/get_output_via_markers.py /workspace/.vscode-remote/extensions/ms-python.python-2023.4.1-universal/pythonFiles/interpreterInfo.py
+> /bin/python3 -I /workspace/.vscode-remote/extensions/ms-python.python-2023.4.1-universal/pythonFiles/get_output_via_markers.py /workspace/.vscode-remote/extensions/ms-python.python-2023.4.1-universal/pythonFiles/interpreterInfo.py
+> /usr/bin/python3 -I /workspace/.vscode-remote/extensions/ms-python.python-2023.4.1-universal/pythonFiles/get_output_via_markers.py /workspace/.vscode-remote/extensions/ms-python.python-2023.4.1-universal/pythonFiles/interpreterInfo.py
+Starting Jedi language server for boutique_ado.
+> ~/.pyenv/shims/python /workspace/.vscode-remote/extensions/ms-python.python-2023.4.1-universal/pythonFiles/linter.py -m pycodestyle ./boutique_ado/settings.py
+cwd: .
+##########Linting Output - pycodestyle##########
+
+23,80,E,E501:line too long (81 > 79 characters)
+89,80,E,E501:line too long (91 > 79 characters)
+92,80,E,E501:line too long (81 > 79 characters)
+95,80,E,E501:line too long (82 > 79 characters)
+98,80,E,E501:line too long (83 > 79 characters)
+
+> ~/.pyenv/shims/python /workspace/.vscode-remote/extensions/ms-python.python-2023.4.1-universal/pythonFiles/linter.py -m pycodestyle ./boutique_ado/settings.py
+cwd: .
+##########Linting Output - pycodestyle##########
+
+23,80,E,E501:line too long (81 > 79 characters)
+97,80,E,E501:line too long (91 > 79 characters)
+100,80,E,E501:line too long (81 > 79 characters)
+103,80,E,E501:line too long (82 > 79 characters)
+106,80,E,E501:line too long (83 > 79 characters)
+
+> ~/.pyenv/shims/python /workspace/.vscode-remote/extensions/ms-python.python-2023.4.1-universal/pythonFiles/linter.py -m pycodestyle ./boutique_ado/settings.py
+cwd: .
+##########Linting Output - pycodestyle##########
+
+23,80,E,E501:line too long (81 > 79 characters)
+101,80,E,E501:line too long (91 > 79 characters)
+104,80,E,E501:line too long (81 > 79 characters)
+107,80,E,E501:line too long (82 > 79 characters)
+110,80,E,E501:line too long (83 > 79 characters)
+
+> ~/.pyenv/shims/python /workspace/.vscode-remote/extensions/ms-python.python-2023.4.1-universal/pythonFiles/linter.py -m pycodestyle ./boutique_ado/settings.py
+cwd: .
+##########Linting Output - pycodestyle##########
+
+23,80,E,E501:line too long (81 > 79 characters)
+103,80,E,E501:line too long (91 > 79 characters)
+106,80,E,E501:line too long (81 > 79 characters)
+109,80,E,E501:line too long (82 > 79 characters)
+112,80,E,E501:line too long (83 > 79 characters)
+
+> ~/.pyenv/shims/python /workspace/.vscode-remote/extensions/ms-python.python-2023.4.1-universal/pythonFiles/linter.py -m pycodestyle ./boutique_ado/urls.py
+cwd: .
+##########Linting Output - pycodestyle##########
+
+
+> ~/.pyenv/shims/python /workspace/.vscode-remote/extensions/ms-python.python-2023.4.1-universal/pythonFiles/linter.py -m pycodestyle ./boutique_ado/urls.py
+cwd: .
+##########Linting Output - pycodestyle##########
+
+
